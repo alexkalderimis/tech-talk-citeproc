@@ -53,7 +53,7 @@ Note on the different intermediate formats, and the benefits of pandoc.
 
 - Tree shaking (both of styles and of references)
 - Text vs Strings (discussion of data types)
-- Look at sorting and disambiguation (eliminating $$O(n)$$ structures)
+- Look at sorting and disambiguation (eliminating $O(n)$ structures)
 - Memoisation (turn citeproc into a state)
 
 ## Tooling:
